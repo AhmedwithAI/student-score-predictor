@@ -12,3 +12,6 @@ The model uses linear regression to predict marks.
 ## Future Improvements
 - Add user input
 - Improve dataset
+## Output Example
+
+The model predicts marks based on study hours and visualizes the relationship using a graph.
